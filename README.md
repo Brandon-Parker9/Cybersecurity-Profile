@@ -3,7 +3,7 @@
 ## About Me
 
 I am a dedicated cybersecurity professional with strong problem-solving skills, programming expertise, and excellent communication abilities. 
-I am deeply passionate about understanding the intricacies of cybersecurity and protecting individuals and organizations from cyber threats. 
+I am passionate about understanding the intricacies of cybersecurity and protecting individuals and organizations from cyber threats. 
 My core values of protecting others, ensuring proper access to data, and a passion for continuous learning drive me to excel in this field. 
 By leveraging my strengths in programming and my ability to communicate complex security concepts to diverse audiences, 
 I aim to support and enhance the security goals of various organizations.
