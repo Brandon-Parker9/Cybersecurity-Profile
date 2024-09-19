@@ -29,7 +29,7 @@ I aim to support and enhance the security goals of various organizations.
 - Enhance security posture of organizations
 
 ## Certificate of Completion
-![Google Cybersecurity Certificate](https://raw.githubusercontent.com/Brandon-Parker9/Cybersecurity-Profile/main/Certificate-of-Completion/google-cybersecurity-certificate-medium.png width=300)
+![Google Cybersecurity Certificate](https://raw.githubusercontent.com/Brandon-Parker9/Cybersecurity-Profile/main/Certificate-of-Completion/google-cybersecurity-certificate-medium.png)
 
 [Coursera Certificate of Completion - GB93WOIUA1YH](https://github.com/Brandon-Parker9/Cybersecurity-Profile/blob/main/Certificate-of-Completion/Coursera%20Certificate%20of%20Completion%20-%20GB93WOIUA1YH.pdf)
 
