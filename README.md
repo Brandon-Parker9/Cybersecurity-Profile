@@ -25,15 +25,6 @@
 - Enhance security posture of organizations
 
 ## Certificate of Completion
+![Google Cybersecurity Certificate](https://raw.githubusercontent.com/Brandon-Parker9/Cybersecurity-Profile/main/Certificate-of-Completion/google-cybersecurity-certificate-small.png)
 
-[Coursera Certificate of Completion - GB93WOIUA1YH](https://raw.githubusercontent.com/Brandon-Parker9/Cybersecurity-Profile/main/Certificate-of-Completion/Coursera%20Certificate%20of%20Completion%20-%20GB93WOIUA1YH.pdf)
-
-**Preview:**
-[Insert an image preview of your certificate PDF here]
-
-## Badge
-
-![Google Cybersecurity Certificate](https://raw.githubusercontent.com/Brandon-Parker9/Cybersecurity-Profile/main/Certificate-of-Completion/google-cybersecurity-certificate-medium.png)
-
-
-
+[Coursera Certificate of Completion - GB93WOIUA1YH](https://github.com/Brandon-Parker9/Cybersecurity-Profile/blob/main/Certificate-of-Completion/Coursera%20Certificate%20of%20Completion%20-%20GB93WOIUA1YH.pdf)
